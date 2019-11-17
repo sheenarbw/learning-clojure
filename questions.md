@@ -1,0 +1,5 @@
+- linting and auto-formatting
+- naming conventions
+- test frameworks
+- how to call Java code. Conventions and knowing what's up
+- best vscode plugins
